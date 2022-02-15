@@ -94,7 +94,7 @@ class GraphDataset(Dataset):
         #==================================- dropping + adding + misplacing -===================================#
 
         choose_list = [1,2,3] # 1-drop 2-add 3-misplace
-        probabilities = [0.7,0.2,0.1]
+        probabilities = [0.7,0.2,0.1] # T15: probabilities = [0.5,0.3,0.2] 
         choose_num = random_pick(choose_list, probabilities)
 
         if self.droprate > 0:
