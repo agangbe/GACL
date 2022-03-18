@@ -1,1 +1,3 @@
 # GACL
+
+* Due to the impact of COVID-19, the more detailed method introduction will be updated later...
