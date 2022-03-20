@@ -4,6 +4,6 @@ Tiening Sun, Zhong Qian, Sujun Dong, Peifeng Li, and Qiaoming Zhu. Rumor Detecti
 
 ## Datasets
 
-# Run
+## Run
 
-# Citation
+## Citation
