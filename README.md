@@ -6,6 +6,6 @@ Tiening Sun, Zhong Qian, Sujun Dong, Peifeng Li, and Qiaoming Zhu. Rumor Detecti
 
 ## Run
 
-python main.py
+‘python main.py’
 
 ## Citation
