@@ -13,9 +13,9 @@ Finally, run the main.py file.
 
 ## Citation
 
-to be updated...
+updating...
 
-## Special Note
+## Special Explanation
 
 We refine the description of the mask operation in Section 4.1 to prevent confusion.
-"...we only need randomly mask a small number of neurons(potential, semantics remain unchanged) and words(explicit, noise) in each post."
+"...we only need randomly mask a small number of neurons(potential, semantics remain unchanged) and words(explicit noise) in each post."
