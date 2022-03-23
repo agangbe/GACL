@@ -10,3 +10,12 @@ First, you need to download the datasets and corresponding pre-trained word vect
 Then, follow the prompts(README.txt) to place the datasets and word vectors in the correct folders.
 
 Finally, run the main.py file.
+
+## Citation
+
+to be updated...
+
+## Special Note
+
+We refine the description of the mask operation in Section 4.1 to prevent confusion.
+"...we only need randomly mask a small number of neurons(potential, semantics remain unchanged) and words(explicit, noise) in each post."
