@@ -10,8 +10,3 @@ First, you need to download the datasets and corresponding pre-trained word vect
 Then, follow the prompts(README.txt) to place the datasets and word vectors in the correct folders.
 
 Finally, run the main.py file.
-
-
-## Citation
-
-@......
