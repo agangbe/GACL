@@ -13,4 +13,10 @@ Finally, run the main.py file.
 
 ## Citation
 
-updating...
+@inproceedings{sun2022rumor,
+  title={Rumor Detection on Social Media with Graph Adversarial Contrastive Learning},
+  author={Sun, Tiening and Qian, Zhong and Dong, Sujun and Li, Peifeng and Zhu, Qiaoming},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={2789--2797},
+  year={2022}
+}
