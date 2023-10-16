@@ -13,5 +13,5 @@ Finally, run the main.py file.
 
 ## Other
 
-The raw datasets can be downloaded from https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0. We extracted the corresponding structured information from Twitter website according to the raw data ID, but some source tweets have been lost (or deleted). The organized data set (including comment data) can be downloaded from https://pan.baidu.com/s/19s-oScorokdRXgq-JdZALQ?pwd=cauj
+The raw datasets can be downloaded from https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0. We extracted the corresponding structured information from Twitter website according to the raw data ID, but some source tweets have been lost (or deleted). The organized data set (including comment data) can be downloaded from https://pan.baidu.com/s/1J5wt0k5mxUCQ_fqkwcJZ5A?pwd=5n8m 
 
